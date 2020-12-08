@@ -12,7 +12,6 @@ html,
 body {
     height: 100%;
     visibility: hidden;
-    overflow-x: hidden;
 }
 
 body {
