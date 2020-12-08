@@ -20,6 +20,7 @@ body {
             transparent 400px,
             hsl(0, 0%, 50%, 20%) 400px,
             hsl(0, 0%, 50%, 20%) 800px);
+    overflow-x: hidden;
 }
 
 .container {
